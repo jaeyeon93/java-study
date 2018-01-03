@@ -4,7 +4,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		// run short key is cmd+fn+f11
 		System.out.println("Hi, World");
-		Systme.out.println("Synchronize the eclipse")
+		System.out.println("Synchronize the eclipse");
 		
 	}
 }
