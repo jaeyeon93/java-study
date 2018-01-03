@@ -8,12 +8,17 @@ public class gugudan {
 		Scanner scanner = new Scanner(System.in);
 		// make scanner object
 		int number = scanner.nextInt();
-		//System.out.println(number+ "");
-		
-		// 구구단 출력 예제 구현;
-		for (int i = 1; i < 10; i++) {
-			int result = number * i;
-			System.out.println(result);
-		}
-	}
+		if (number < 2) {
+			System.out.println("2이상, 9이의 값만 입력할 수 있습니다.");
+		} else if (number > 9) {
+			System.out.println("2이상, 9이의 값만 입력할 수 있습니다.");
+		} else {
+			// 구구단 출력 예제 구현;
+			for (int i = number; i < 10; i++) {
+					int result = i * number;
+					System.out.println(result);
+
+				}
+			}
+		}		
 }
