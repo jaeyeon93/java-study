@@ -1,25 +1,6 @@
 import java.util.Scanner;
 
 public class Calculator {
-	static int getFirstValue(Scanner scanner) {
-		// get first value
-		System.out.print("초기값 :  ");
-		int first = scanner.nextInt();
-		return first;
-	}
-
-	static int getSecondValue(Scanner scanner) {
-		// get second value
-		System.out.print("입력 값 :  ");
-		int second = scanner.nextInt();
-		return second;
-	}
-
-	static String getSymbol(Scanner scanner) {
-		System.out.print("기호 : ");
-		String symbol = scanner.next();
-		return symbol;
-	}
 
 	static int calculate(String symbol , int first , int second) {
 		// calculate
@@ -42,25 +23,20 @@ public class Calculator {
 		return result;
 	}
 
-	static void print (int result) {
-		// print result
-		System.out.println(result);
-	}
-
 	public static void main(String [] args) {
 		Scanner scanner = new Scanner(System.in);
 
-		int first = getFirstValue(scanner);
+		int first = Input.getFirstValue(scanner);
 		int result = first;
 
 		while (true) {
-			String symbol = getSymbol(scanner);
+			String symbol = Input.getSymbol(scanner);
 			if (symbol.equals("quit")) {
-				print(result);
+				Output.print(result);
 				break;
 			}
 
-			int second = getSecondValue(scanner);
+			int second = Input.getSecondValue(scanner);
 
 			result = calculate(symbol, result, second);
 		}
