@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b502f4ae-1825-429e-abb4-c728216878a5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/BlockTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/CallStackTest2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/CarTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/ConstructorTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/Exercise6_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/Exercise6_4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/Exercise6_5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/Exercise6_6.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/Exercise6_7.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/FactorialTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/MemberCall.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/OverloadingTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/ParameterTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/ParameterTest2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/PowerTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA151/src/ProductTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/day3/CallStackTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/day3/MyMath.java" />
-      <change beforePath="$PROJECT_DIR$/CardTest.java" afterPath="$PROJECT_DIR$/day3/CardTest.java" />
-      <change beforePath="$PROJECT_DIR$/MyMath.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ReturnTest.java" afterPath="$PROJECT_DIR$/day3/ReturnTest.java" />
-      <change beforePath="$PROJECT_DIR$/Time.java" afterPath="$PROJECT_DIR$/day3/Time.java" />
-      <change beforePath="$PROJECT_DIR$/TvTest.java" afterPath="$PROJECT_DIR$/day3/TvTest.java" />
-    </list>
+    <list default="true" id="b502f4ae-1825-429e-abb4-c728216878a5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,61 +11,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ByteOverflow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/src/ByteOverflow.java">
+      <file leaf-file-name="OperatorEx8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrecisionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/src/PrecisionTest.java">
+      <file leaf-file-name="OperatorEx14.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CastingEx1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/src/CastingEx1.java">
+      <file leaf-file-name="OperatorEx15.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperatorEx16.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperatorEx17.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperatorEx9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CastingEx2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/src/CastingEx2.java">
+      <file leaf-file-name="OperatorEx10.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorEx1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx1.java">
+      <file leaf-file-name="OperatorEx13.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OperatorEx2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,6 +128,14 @@
         <option value="$PROJECT_DIR$/day5/src/CastingEx2.java" />
         <option value="$PROJECT_DIR$/day5/src/OperatorEx1.java" />
         <option value="$PROJECT_DIR$/day5/src/OperatorEx2.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx8.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx9.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx10.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx13.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx14.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx15.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx16.java" />
+        <option value="$PROJECT_DIR$/day5/src/OperatorEx17.java" />
       </list>
     </option>
   </component>
@@ -336,12 +340,12 @@
       <workItem from="1515136572480" duration="3983000" />
       <workItem from="1515455530330" duration="529000" />
       <workItem from="1515456180639" duration="596000" />
-      <workItem from="1515456848959" duration="3960000" />
+      <workItem from="1515456848959" duration="7274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15840000" />
+    <option name="totallyTimeSpent" value="19154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="705" extended-state="0" />
@@ -657,6 +661,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day5/src/CastingEx1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -685,6 +713,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/OperatorEx17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
