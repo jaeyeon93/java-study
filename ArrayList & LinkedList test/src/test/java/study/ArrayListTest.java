@@ -20,12 +20,25 @@ public class ArrayListTest {
         assertEquals(false, list.contains("first"));
     }
 
-//    @Test
-//    public void noGenerics() throws Exception {
-//        ArrayList list = new ArrayList();
-//        list.add("this is string");
-//
-//
-//    }
+    @Test
+    public void noGenerics() throws Exception {
+        ArrayList list = new ArrayList();
+        list.add("this is string");
+        list.add(1);
+
+        String first = (String)list.get(0);
+        int second = (int)list.get(1);
+
+    }
+
+    @Test
+    public void useGenerics() throws Exception {
+        ArrayList<String> values = new ArrayList<String>();
+        values.add("first");
+        values.add("second");
+
+        String first = values.get(0);
+        String second = values.get(1);
+    }
 }
 
